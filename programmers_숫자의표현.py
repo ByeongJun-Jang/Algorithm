@@ -13,7 +13,6 @@ answer
 # 완전 탐색을 활용하여 풀어야 하는 문제
 
 def solution(data):
-  data = int(input())
   answer=0
   for i in range(1,data+1):
     sum = 0
